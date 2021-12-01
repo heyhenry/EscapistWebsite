@@ -68,3 +68,32 @@ body {
     grid-column-end: span 3;
     */
 }
+
+.header ul {
+    list-style-type: none;
+    margin: 0px;
+    overflow: hidden;
+    padding: 0;
+    background: #333;
+    /* grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 2; */
+    
+}
+
+.header li {
+    float: left;
+}
+
+.header li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 5px;
+} 
+
+.header li:hover{
+    background-color: #111;
+}
