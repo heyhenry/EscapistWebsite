@@ -95,5 +95,9 @@ body {
 } 
 
 .header li:hover{
-    background-color: #111;
+    /* background-color: #111; */
+}
+
+.header a:hover {
+    color: lightgray;
 }
