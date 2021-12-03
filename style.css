@@ -94,9 +94,9 @@ body {
     padding: 10px 5px;
 } 
 
-.header li:hover{
-    /* background-color: #111; */
-}
+/* .header li:hover{
+    background-color: #111;
+} */
 
 .header a:hover {
     color: lightgray;
